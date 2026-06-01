@@ -53,5 +53,5 @@ drag, and gravity. Parametric study across 74 launch angles.
 ---
 
 ## Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Manya_Tiwari-blue)](www.linkedin.com/in/manya-tiwari-549954329)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Manya_Tiwari-blue)](https://www.linkedin.com/in/manya-tiwari-549954329/)
 [![GitHub](https://img.shields.io/badge/GitHub-manyatiwari--aero-black)](https://github.com/manyatiwari-aero)
