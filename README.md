@@ -30,6 +30,17 @@ drag, and gravity. Parametric study across 74 launch angles.
 
 ---
 
+### ✈️ Project 3 — NACA Airfoil Plotter
+**Tool:** Python · NumPy · Matplotlib  
+**What it does:** Generates and plots any NACA 4-digit 
+airfoil profile using the 1933 NACA thickness and 
+camber equations. Computes upper surface, lower surface, 
+and camber line with cosine spacing for accuracy.  
+**Airfoils:** NACA 0012 (symmetric) · 2412 · 4412  
+**Repo:** [project3-naca-airfoil-plotter](https://github.com/manyatiwari-aero/project3-naca-airfoil-plotter)
+
+---
+
 ## 💻 Skills
 ![MATLAB](https://img.shields.io/badge/MATLAB-orange?style=flat)
 ![Python](https://img.shields.io/badge/Python-blue?style=flat)
