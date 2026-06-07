@@ -40,7 +40,16 @@ and camber line with cosine spacing for accuracy.
 **Repo:** [project3-naca-airfoil-plotter](https://github.com/manyatiwari-aero/project3-naca-airfoil-plotter)
 
 ---
+### 🌡️ Project 4 — ISA Atmosphere Model
+**Tool:** Python · NumPy · Matplotlib  
+**What it does:** Implements the International Standard 
+Atmosphere model computing temperature, pressure, and 
+density from 0 to 20km across troposphere and stratosphere.  
+**Result:** Sea level density 1.225 → 0.088 kg/m³ at 20km · 
+Integrated into Project 2 rocket simulation (+16m peak altitude)  
+**Repo:** [project4-isa-atmosphere-model](https://github.com/manyatiwari-aero/project4-isa-atmosphere-model)
 
+---
 ## 💻 Skills
 ![MATLAB](https://img.shields.io/badge/MATLAB-orange?style=flat)
 ![Python](https://img.shields.io/badge/Python-blue?style=flat)
