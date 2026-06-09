@@ -4,8 +4,7 @@
 
 I build aerospace simulations and tools independently 
 to deepen my understanding beyond coursework.
-Currently preparing for summer training at 
-HAL Kanpur — Transport Aircraft Division. 🏭
+Currently preparing for summer training. 🏭
 
 ---
 
@@ -67,7 +66,6 @@ Integrated into Project 2 rocket simulation (+16m peak altitude)
 ---
 
 ## Currently
-- 🏭 Summer Training — HAL Kanpur (June 2026)
 - 📚 3rd Year Aerospace Engineering — July 2026
 
 ---
