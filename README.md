@@ -10,7 +10,7 @@ Currently preparing for summer training. 🏭
 
 ## 🛠️ Projects
 
-### 🔧 Project 1 — PID Altitude Controller
+### 🔧 Project 1 - PID Altitude Controller
 **Tool:** MATLAB · Control System Toolbox  
 **What it does:** Models quadcopter altitude dynamics 
 as a double integrator. Designs PID controller with 
@@ -20,7 +20,7 @@ tuned gains.
 
 ---
 
-### 🚀 Project 2 — Rocket Trajectory Simulation
+### 🚀 Project 2 - Rocket Trajectory Simulation
 **Tool:** Python · SciPy · NumPy · Matplotlib  
 **What it does:** Simulates 2D rocket flight with thrust, 
 drag, and gravity. Parametric study across 74 launch angles.  
@@ -29,7 +29,7 @@ drag, and gravity. Parametric study across 74 launch angles.
 
 ---
 
-### ✈️ Project 3 — NACA Airfoil Plotter
+### ✈️ Project 3 - NACA Airfoil Plotter
 **Tool:** Python · NumPy · Matplotlib  
 **What it does:** Generates and plots any NACA 4-digit 
 airfoil profile using the 1933 NACA thickness and 
@@ -39,7 +39,7 @@ and camber line with cosine spacing for accuracy.
 **Repo:** [project3-naca-airfoil-plotter](https://github.com/manyatiwari-aero/project3-naca-airfoil-plotter)
 
 ---
-### 🌡️ Project 4 — ISA Atmosphere Model
+### 🌡️ Project 4 - ISA Atmosphere Model
 **Tool:** Python · NumPy · Matplotlib  
 **What it does:** Implements the International Standard 
 Atmosphere model computing temperature, pressure, and 
@@ -59,14 +59,14 @@ Integrated into Project 2 rocket simulation (+16m peak altitude)
 
 ---
 ## 🏆 Certificates
-- ✅ MATLAB Onramp — MathWorks
-- ✅ Simulink Onramp — MathWorks
-- 🔄 CSWA SolidWorks — *in progress*
+- ✅ MATLAB Onramp - MathWorks
+- ✅ Simulink Onramp - MathWorks
+- 🔄 CSWA SolidWorks - *in progress*
 
 ---
 
 ## Currently
-- 📚 3rd Year Aerospace Engineering — July 2026
+- 📚 3rd Year Aerospace Engineering - July 2026
 
 ---
 
